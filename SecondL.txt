@@ -1,1 +1,2 @@
 Lepsze jest wrogiem dobrego
+zmieniam ten plik i spowrotem do Gita lokalnego
